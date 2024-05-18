@@ -1,0 +1,25 @@
+/*Manter a cor dos links como pretas*/
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/*Setando a fonte, tamanho e padding do corpo do site*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    padding: 4px 4px 4px 4px;
+}
+
+h1{
+    font-size: 28px;
+    border: 4px outset #0084ff;
+}
+
+h3{
+    font-size: 18px;
+}
+
+h4{
+    font-size: 16px;
+}
